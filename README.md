@@ -10,4 +10,6 @@
 
 # 示例程序
 
-UTF8文本绘制
+[UTF8文本绘制](https://github.com/44670/SourceHanSans-Pixel/tree/main/examples/C)
+
+提示：修改hal.h中的平台相关代码后可移植到不同的软硬件平台上。
