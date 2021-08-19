@@ -45,7 +45,7 @@ static int fbDrawUnicodeRune(u32 rune) {
   if (!fbCurrentFont) {
     return 0;
   }
-  //int fontW = fbCurrentFont->charWidth;
+  // int fontW = fbCurrentFont->charWidth;
   int fontH = fbCurrentFont->charHeight;
   int fontCharSize = fbCurrentFont->charDataSize;
   int fontPageSize = fbCurrentFont->pageSize;
