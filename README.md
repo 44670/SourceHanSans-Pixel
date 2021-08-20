@@ -32,6 +32,6 @@
 
 # 许可协议
 
-"Source Hans Sans" 字体及其衍生产物，遵循SIL OPEN FONT LICENSE Version 1.1协议。
+"Source Han Sans" 字体及其衍生产物，遵循SIL OPEN FONT LICENSE Version 1.1协议。
 
 本项目包含的程序代码（WorkBench.ipynb、示例程序代码等等），以MIT协议发布。
