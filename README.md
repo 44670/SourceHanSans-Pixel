@@ -4,9 +4,10 @@
 
 提供C语言的示例程序，可在嵌入式硬件使用。
 
-目前提供了16x15像素的CJK字符集字库，全字库体积为1.4MB。
+目前提供了16x15像素、12x11像素两种CJK字符集字库，全字库体积为1.4MB。
 
 ![demo](demo/16.png)
+![demo](demo/12.png)
 
 # 示例程序
 
@@ -16,13 +17,17 @@
 
 # 文件列表
 
-**SourceHanSansSC-Light.otf**
+**SourceHanSansSC-VF.otf**
 
   原始版本的Source Hans Sans字体文件。
 
 **font16x15.4FN**
 
   16x15像素、CJK字符集的二进制字库文件，使用方法参考示例程序。
+
+**font12x11.4FN**
+
+  12x11像素、CJK字符集的二进制字库文件，使用方法参考示例程序。
   
 **WorkBench.ipynb**
 
